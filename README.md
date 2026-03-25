@@ -40,3 +40,4 @@ Databasen lagrar information om kunder, tjänster och bokningar samt loggar hän
 Projektet innehåller även exempel på SELECT, JOIN och index samt användare med olika behörigheter (admin och personal).
 
 ## ER-diagram
+![ER-diagram](bokningssystem.png)
